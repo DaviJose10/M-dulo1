@@ -1,0 +1,7 @@
+Solução Dissertativa 
+
+
+O algoritmo serve para calcular a multiplicação de 9 por um número *n* usando o truque da tabuada. 
+Primeiro, o usuário informa um valor *n*. Depois, o cálculo é feito separando o resultado em dois dígitos: a dezena é *n − 1* e a unidade é *10 − n*.
+Em seguida, juntamos esses dois valores fazendo *(dezena × 10) + unidade*, o que dá o resultado final da conta.
+Por fim, o algoritmo mostra esse valor para o usuário. Assim, seguimos as três etapas: entrada dos dados, processamento do cálculo e saída com o resultado.
