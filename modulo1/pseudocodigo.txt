@@ -1,0 +1,12 @@
+
+
+  ESCREVA "Digite um número n para calcular 9 x n:"
+  LEIA n
+
+  dezena ← n - 1
+  unidade ← 10 - n
+
+  resultado ← (dezena * 10) + unidade
+
+  ESCREVA "O resultado de 9 x ", n, " é: ", resultado
+
