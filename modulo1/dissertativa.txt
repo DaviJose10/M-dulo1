@@ -1,1 +1,8 @@
 
+O paradigma escolhido foi a Programação Orientada a Objetos (POO), pois o sistema é composto por entidades do mundo real, como Livro, Autor, Usuário e Empréstimo.
+
+A POO também permite modelar essas entidades como classes, com atributos e métodos, facilitando a organização, reutilização e manutenção do sistema.
+
+Além disso, as interações entre os objetos (como empréstimos e devoluções) são representadas por meio de métodos e relacionamentos entre classes.
+
+Esse paradigma também facilita a evolução do sistema, permitindo adicionar novas funcionalidades como reservas, multas ou diferentes tipos de usuários.
